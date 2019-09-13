@@ -1,0 +1,16 @@
+Game Plan:
+  This game puts you into a box pitted against a tank ai and a moarter. 
+  Mechanics:
+    There is an aiming system that tells the user if their current weapon trajectory will hit an enemy.
+    The tank functions as to allow you to aim without reorienting the entire tank. This is done by reassigning the moveleft and moveright tools to the a and d keys rather than having the mouse orientation act as the turning.
+  How to win:
+    Winning is triggered when you have shot and killed the enemies on the field. 
+  How to lose:
+    Losing is caused by Being shot three times, signaled by when the player tank explodes.
+    
+Art:
+  The art in this game will be made by pre-existing content via either class resources, the unreal store, or sketchfab.
+  The game will take place in a 3D environment. The cover page must be a royalty-free piece.
+  
+Sound:
+   These will play when the user fires, the bullet hits, the game is won or lost, and barrell movement. The sound for this game must be royalty-free. There should be music in both the title screen and the play area (not the same one though)
